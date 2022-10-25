@@ -1,2 +1,3 @@
-# proyecto_2022
-se guerdara la informacion y codigo del proyecto
+# DuckieTesla (proyecto_2022)
+Machine Learning implementado a la conduccion autonoma en DuckieTown
+
